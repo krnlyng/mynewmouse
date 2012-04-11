@@ -1,6 +1,6 @@
 this is the serverside for my mouse and keyboard emulator
 
-usage: ./mynewmouseandkeyboard
+usage: ./mynewmouse
 
 TODO: scrolling
 TODO: keyboard stuff
